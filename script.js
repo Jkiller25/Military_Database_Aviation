@@ -16,7 +16,7 @@ const aviones = {
 
         alcance:"2960 km",
 
-        motores:"2 × Pratt & Whitney F119",
+        motores:"2 Ã— Pratt & Whitney F119",
 
         tripulacion:"1",
         silueta:"PNG/F22_silueta.png",
@@ -37,13 +37,13 @@ const aviones = {
 
         stealthNivel:"95%",
 
-        descripcion:"Caza furtivo de superioridad aerea diseñado para dominar el espacio aereo mediante tecnologia stealth, supercrucero y gran maniobrabilidad."
+        descripcion:"Caza furtivo de superioridad aerea diseÃ±ado para dominar el espacio aereo mediante tecnologia stealth, supercrucero y gran maniobrabilidad."
 
     },
 
     f35:{
 
-        imagen:"PNG/f35.png",
+        imagen:"PNG/F35.png",
 
         nombre:"F-35 Lightning II",
 
@@ -77,7 +77,7 @@ const aviones = {
 
         stealthNivel:"90%",
 
-        descripcion:"Avion de combate multifuncion de quinta generacion diseñado para misiones aire-aire, aire-tierra y reconocimiento."
+        descripcion:"Avion de combate multifuncion de quinta generacion diseÃ±ado para misiones aire-aire, aire-tierra y reconocimiento."
 
     },
 
@@ -97,7 +97,7 @@ velocidad: "Mach 2.0",
 
 alcance: "4220 km (con tanques externos)",
 
-motores: "1 × Pratt & Whitney F100 o General Electric F110",
+motores: "1 Ã— Pratt & Whitney F100 o General Electric F110",
 
 tripulacion: "1",
 
@@ -111,7 +111,7 @@ maniobraNivel: "96%",
 
 stealthNivel: "15%",
 
-        descripcion:"es un caza polivalente de cuarta generacion diseñado para misiones de superioridad aerea y ataque a tierra. Destaca por su alta maniobrabilidad, velocidad y versatilidad, convirtiendose en uno de los aviones de combate mas exitosos y utilizados del mundo."
+        descripcion:"es un caza polivalente de cuarta generacion diseÃ±ado para misiones de superioridad aerea y ataque a tierra. Destaca por su alta maniobrabilidad, velocidad y versatilidad, convirtiendose en uno de los aviones de combate mas exitosos y utilizados del mundo."
 
     },
 
@@ -123,7 +123,7 @@ nombre: "Su-22 Fitter",
 
 fabricante: "Sukhoi",
 
-pais: "Unión Soviética",
+pais: "UniÃ³n SoviÃ©tica",
 
 generacion: "Tercera",
 
@@ -131,7 +131,7 @@ velocidad: "Mach 1.8",
 
 alcance: "2250 km",
 
-motores: "1 × Lyulka AL-21F-3",
+motores: "1 Ã— Lyulka AL-21F-3",
 
 tripulacion: "1",
 
@@ -145,7 +145,7 @@ maniobraNivel: "68%",
 
 stealthNivel: "5%",
 
-descripcion: "El Su-22 Fitter es un avion de ataque y caza bombardero de tercera generacion, diseñado para realizar misiones de apoyo aéreo cercano e interdicción. Su ala de geometría variable le permite operar eficazmente a distintas velocidades y en diversos perfiles de mision."
+descripcion: "El Su-22 Fitter es un avion de ataque y caza bombardero de tercera generacion, diseÃ±ado para realizar misiones de apoyo aÃ©reo cercano e interdicciÃ³n. Su ala de geometrÃ­a variable le permite operar eficazmente a distintas velocidades y en diversos perfiles de mision."
 
 },
 
@@ -165,7 +165,7 @@ velocidad: "Mach 2.0",
 
 alcance: "3500 km",
 
-motores: "2 × Saturn AL-41F1",
+motores: "2 Ã— Saturn AL-41F1",
 
 tripulacion: "1",
 
@@ -179,7 +179,7 @@ maniobraNivel: "99%",
 
 stealthNivel: "88%",
 
-descripcion: "El Su-57 Felon es un caza multifuncion de quinta generacion diseñado para superioridad aerea y ataque de precision. Combina alta maniobrabilidad, velocidad supersonica sostenida y capacidades furtivas avanzadas para operar en entornos de combate modernos."
+descripcion: "El Su-57 Felon es un caza multifuncion de quinta generacion diseÃ±ado para superioridad aerea y ataque de precision. Combina alta maniobrabilidad, velocidad supersonica sostenida y capacidades furtivas avanzadas para operar en entornos de combate modernos."
 
 },
 mig31:{
@@ -189,7 +189,7 @@ nombre: "MiG-31 Foxhound",
 
 fabricante: "Mikoyan",
 
-pais: "Unión Soviética",
+pais: "UniÃ³n SoviÃ©tica",
 
 generacion: "Cuarta",
 
@@ -197,7 +197,7 @@ velocidad: "Mach 2.83",
 
 alcance: "3000 km",
 
-motores: "2 × Soloviev D-30F6",
+motores: "2 Ã— Soloviev D-30F6",
 
 tripulacion: "2",
 
@@ -211,7 +211,7 @@ maniobraNivel: "60%",
 
 stealthNivel: "5%",
 
-descripcion: "El MiG-31 Foxhound es un interceptor supersonico de largo alcance diseñado para detectar y destruir objetivos a gran distancia. Destaca por su extraordinaria velocidad, potente radar y capacidad para interceptar bombarderos, misiles de crucero y otras aeronaves en amplias zonas de defensa aerea."
+descripcion: "El MiG-31 Foxhound es un interceptor supersonico de largo alcance diseÃ±ado para detectar y destruir objetivos a gran distancia. Destaca por su extraordinaria velocidad, potente radar y capacidad para interceptar bombarderos, misiles de crucero y otras aeronaves en amplias zonas de defensa aerea."
 },
 
 b2:{
@@ -229,7 +229,7 @@ velocidad: "Mach 0.95",
 
 alcance: "11100 km",
 
-motores: "4 × General Electric F118-GE-100",
+motores: "4 Ã— General Electric F118-GE-100",
 
 tripulacion: "2",
 
@@ -243,7 +243,7 @@ maniobraNivel: "40%",
 
 stealthNivel: "100%",
 
-descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseñado para penetrar defensas aereas avanzadas y atacar objetivos de alto valor con armamento convencional o nuclear. Su diseño de ala volante y su reducida firma de radar lo convierten en uno de los aviones mas furtivos jamas construidos."
+descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseÃ±ado para penetrar defensas aereas avanzadas y atacar objetivos de alto valor con armamento convencional o nuclear. Su diseÃ±o de ala volante y su reducida firma de radar lo convierten en uno de los aviones mas furtivos jamas construidos."
 }
 
 
