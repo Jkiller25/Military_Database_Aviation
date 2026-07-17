@@ -1,0 +1,505 @@
+/*==========================
+    BASE DE DATOS MILITAR
+==========================*/
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:#050505;
+
+    font-family:Consolas, "Courier New", monospace;
+
+    color:#00ff66;
+
+    /* Cuadrícula tecnológica */
+    background-image:
+
+    linear-gradient(rgba(0,255,100,.08) 1px, transparent 1px),
+
+    linear-gradient(90deg, rgba(0,255,100,.08) 1px, transparent 1px);
+
+    background-size:40px 40px;
+
+}
+
+/*==========================
+        CABECERA
+==========================*/
+
+header{
+
+    background:#101010;
+
+    border-bottom:3px solid #00ff66;
+
+    padding:20px;
+
+    box-shadow:0 0 25px #00ff66;
+
+}
+
+header h1{
+
+    text-align:center;
+
+    color:#3ea6ff;
+
+    font-size:34px;
+
+    letter-spacing:4px;
+
+    text-shadow:0 0 15px #3ea6ff;
+
+}
+
+/*==========================
+         CONTENIDO
+==========================*/
+
+main{
+
+    width:1000px;
+
+    margin:40px auto;
+
+}
+
+/*==========================
+      MENU DESPLEGABLE
+==========================*/
+
+.selector{
+
+    text-align:center;
+
+    margin-bottom:35px;
+
+}
+
+label{
+
+    font-size:22px;
+
+    color:#7dffb3;
+
+}
+
+select{
+
+    margin-left:15px;
+
+    padding:10px;
+
+    width:260px;
+
+    font-size:18px;
+
+    background:#111;
+
+    color:#00ff66;
+
+    border:2px solid #00ff66;
+
+    outline:none;
+
+}
+
+select:hover{
+
+    box-shadow:0 0 15px #00ff66;
+
+}
+
+/*==========================
+          IMAGEN
+==========================*/
+
+.imagen{
+
+    text-align:center;
+
+}
+
+img{
+
+    width:700px;
+
+    border:3px solid #00ff66;
+
+    box-shadow:
+
+        0 0 15px #00ff66,
+
+        0 0 40px rgba(0,255,100,.5);
+
+    transition:.4s;
+
+}
+
+img:hover{
+
+    transform:scale(1.02);
+
+}
+
+/*==========================
+      PANEL INFORMACIÓN
+==========================*/
+
+.informacion{
+
+    margin-top:35px;
+
+    background:#101010;
+
+    border:2px solid #00ff66;
+
+    padding:25px;
+
+    box-shadow:
+
+        0 0 25px rgba(0,255,100,.35);
+
+}
+
+/* Título del avión */
+
+.informacion h2{
+
+    text-align:center;
+
+    color:#3ea6ff;
+
+    margin-bottom:25px;
+
+    text-shadow:0 0 10px #3ea6ff;
+
+    letter-spacing:2px;
+
+}
+
+/*==========================
+          TABLA
+==========================*/
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+td{
+
+    padding:12px;
+
+    border-bottom:1px solid #222;
+
+}
+
+/* Columna izquierda */
+
+td:first-child{
+
+    color:#7dffb3;
+
+    font-weight:bold;
+
+    width:220px;
+
+}
+
+/* Columna derecha */
+
+td:last-child{
+
+    color:#00ff66;
+
+}
+
+/*==========================
+      DESCRIPCIÓN
+==========================*/
+
+h3{
+
+    color:#3ea6ff;
+
+    margin-top:30px;
+
+    margin-bottom:10px;
+
+}
+
+#descripcion{
+
+    color:#00ff66;
+
+    line-height:1.8;
+
+    text-align:justify;
+
+}
+
+/*==========================
+          PIE
+==========================*/
+
+footer{
+
+    text-align:center;
+
+    color:#666;
+
+    margin:40px;
+
+    letter-spacing:3px;
+
+}
+
+/*==========================
+     EFECTO TERMINAL
+==========================*/
+
+.informacion:hover{
+
+    box-shadow:
+
+    0 0 10px #00ff66,
+
+    0 0 30px #00ff66;
+
+}
+
+
+
+/*==================================
+        BARRA DE ESTADO
+===================================*/
+
+.estado{
+
+    margin-top:20px;
+
+    display:flex;
+
+    justify-content:space-around;
+
+    padding:15px;
+
+    border:1px solid #00ff66;
+
+    background:#0d0d0d;
+
+    color:#00ff66;
+
+    font-size:14px;
+
+}
+
+.estado span{
+
+    color:white;
+
+}
+
+/*==================================
+      CABECERA DEL AVIÓN
+===================================*/
+
+.cabecera-avion{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:flex-start;
+
+    margin-bottom:25px;
+
+}
+
+.ficha{
+
+    width:320px;
+
+    border:2px solid #00ff66;
+
+    padding:15px;
+
+    background:#0b0b0b;
+
+    box-shadow:0 0 15px rgba(0,255,100,.4);
+
+}
+
+.ficha p{
+
+    margin-bottom:15px;
+
+    color:#7dffb3;
+
+}
+
+.ficha span{
+
+    color:#00ff66;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+}
+
+.ficha strong{
+
+    color:#3ea6ff;
+
+    font-size:13px;
+
+}
+
+
+/*=========================
+      SISTEMA
+=========================*/
+
+.sistema{
+
+    margin-top:15px;
+
+    display:flex;
+
+    justify-content:space-around;
+
+    border:1px solid #005522;
+
+    background:#081008;
+
+    padding:12px;
+
+    color:#00ff66;
+
+    font-size:14px;
+
+}
+
+.sistema span{
+
+    color:white;
+
+}
+
+/*=========================
+      RADAR
+=========================*/
+
+.radar{
+
+    width:220px;
+
+    height:220px;
+
+    margin:40px auto;
+
+    border:2px solid #00ff66;
+
+    border-radius:50%;
+
+    position:relative;
+
+    overflow:hidden;
+
+    box-shadow:0 0 20px #00ff66;
+
+}
+
+.circulo{
+
+    position:absolute;
+
+    border:1px solid rgba(0,255,100,.35);
+
+    border-radius:50%;
+
+}
+
+.c1{
+
+    width:60px;
+
+    height:60px;
+
+    top:80px;
+
+    left:80px;
+
+}
+
+.c2{
+
+    width:120px;
+
+    height:120px;
+
+    top:50px;
+
+    left:50px;
+
+}
+
+.c3{
+
+    width:180px;
+
+    height:180px;
+
+    top:20px;
+
+    left:20px;
+
+}
+
+.linea{
+
+    width:2px;
+
+    height:110px;
+
+    background:#00ff66;
+
+    position:absolute;
+
+    left:109px;
+
+    top:0;
+
+    transform-origin:bottom;
+
+    animation:radar 4s linear infinite;
+
+    box-shadow:0 0 12px #00ff66;
+
+}
+
+@keyframes radar{
+
+    from{
+
+        transform:rotate(0deg);
+
+    }
+
+    to{
+
+        transform:rotate(360deg);
+
+    }
+
+}
