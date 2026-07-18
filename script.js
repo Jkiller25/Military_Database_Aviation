@@ -276,6 +276,39 @@ descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseñado para 
     stealthNivel:"15%",
 
     descripcion:"Caza de superioridad aerea de cuarta generacion desarrollado por la Union Sovietica. Destaca por su alta maniobrabilidad, velocidad y capacidad de combate aire-aire, aunque posee un alcance limitado en comparacion con cazas modernos."
+},
+
+    f5:{
+
+    imagen:"PNG/F5.png",
+
+    nombre:"F-5 Tiger II",
+
+    fabricante:"Northrop",
+
+    pais:"Estados Unidos",
+
+    generacion:"Tercera",
+
+    velocidad:"Mach 1.6",
+
+    alcance:"1405 km",
+
+    motores:"2 × General Electric J85-GE-21",
+
+    tripulacion:"1",
+
+    silueta:"PNG/F5_silueta.png",
+
+    velocidadNivel:"70%",
+
+    alcanceNivel:"60%",
+
+    maniobraNivel:"80%",
+
+    stealthNivel:"10%",
+
+    descripcion:"Caza ligero de tercera generacion desarrollado por Estados Unidos. Destaca por su bajo costo operativo, excelente maniobrabilidad y facilidad de mantenimiento. Aunque posee menor capacidad de carga y avionica que cazas mas modernos, ha sido ampliamente utilizado por numerosas fuerzas aereas en todo el mundo."
 }
 
 
