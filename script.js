@@ -244,6 +244,38 @@ maniobraNivel: "40%",
 stealthNivel: "100%",
 
 descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseñado para penetrar defensas aereas avanzadas y atacar objetivos de alto valor con armamento convencional o nuclear. Su diseño de ala volante y su reducida firma de radar lo convierten en uno de los aviones mas furtivos jamas construidos."
+},
+    mig29:{
+
+    imagen:"PNG/Mig29.png",
+
+    nombre:"MiG-29 Fulcrum",
+
+    fabricante:"Mikoyan (MiG)",
+
+    pais:"Union Sovietica",
+
+    generacion:"Cuarta",
+
+    velocidad:"Mach 2.25",
+
+    alcance:"1430 km",
+
+    motores:"2 × Klimov RD-33",
+
+    tripulacion:"1",
+
+    silueta:"PNG/Mig29_silueta.png",
+
+    velocidadNivel:"90%",
+
+    alcanceNivel:"60%",
+
+    maniobraNivel:"90%",
+
+    stealthNivel:"15%",
+
+    descripcion:"Caza de superioridad aerea de cuarta generacion desarrollado por la Union Sovietica. Destaca por su alta maniobrabilidad, velocidad y capacidad de combate aire-aire, aunque posee un alcance limitado en comparacion con cazas modernos."
 }
 
 
