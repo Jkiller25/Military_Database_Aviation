@@ -341,13 +341,7 @@ descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseñado para 
 
     stealthNivel: "2%",
 
-    descripcion: "es un caza de segunda generacion desarrollado por la Union Sovietica. Fue 
-
-el primer avion de combate sovietico capaz de mantener vuelo supersónico en vuelo nivelado. 
-
-Destaco por su buena aceleracion y maniobrabilidad, aunque su alcance y avionica eran 
-
-limitados en comparacion con cazas posteriores."
+    descripcion: "es un caza de segunda generacion desarrollado por la Union Sovietica. Fue el primer avion de combate sovietico capaz de mantener vuelo supersónico en vuelo nivelado Destaco por su buena aceleracion y maniobrabilidad, aunque su alcance y avionica eran limitados en comparacion con cazas posteriores."
 
 },
 
@@ -388,6 +382,88 @@ misiones de superioridad aerea, ataque a tierra, reconocimiento y guerra electro
 Destaca por su gran versatilidad, fiabilidad y capacidad para operar desde portaaviones, 
 
 siendo uno de los principales aviones de combate de la Armada de los Estados Unidos."
+
+},
+
+    f14:{
+
+    imagen: "PNG/f14.png",
+
+    nombre: "F-14 Tomcat",
+
+    fabricante: "Grumman",
+
+    pais: "Estados Unidos",
+
+    generacion: "Cuarta",
+
+    velocidad: "Mach 2.34",
+
+    alcance: "2960 km",
+
+    motores: "2 × Pratt & Whitney TF30-P-414A (primeras versiones) / General Electric F110-GE-400 (F-14B/D)",
+
+    tripulacion: "2",
+
+    silueta: "PNG/f14_silueta.png",
+
+    velocidadNivel: "95%",
+
+    alcanceNivel: "80%",
+
+    maniobraNivel: "88%",
+
+    stealthNivel: "10%",
+
+    descripcion: "es un caza interceptor y de superioridad aerea de cuarta generacion 
+
+diseñado para proteger grupos de portaaviones y enfrentar objetivos a larga distancia. 
+
+Destaca por sus alas de geometria variable, su elevada velocidad, su potente radar y su 
+
+capacidad para emplear misiles de largo alcance, convirtiendose en uno de los cazas mas 
+
+emblematicos de la Guerra Fria."
+
+},
+
+f15:{
+
+    imagen: "PNG/F15.png",
+
+    nombre: "F-15 Eagle",
+
+    fabricante: "McDonnell Douglas (actualmente Boeing)",
+
+    pais: "Estados Unidos",
+
+    generacion: "Cuarta",
+
+    velocidad: "Mach 2.5",
+
+    alcance: "5550 km (con tanques externos y combustible adicional)",
+
+    motores: "2 × Pratt & Whitney F100-PW-220/229",
+
+    tripulacion: "1",
+
+    silueta: "PNG/F15_silueta.png",
+
+    velocidadNivel: "98%",
+
+    alcanceNivel: "90%",
+
+    maniobraNivel: "91%",
+
+    stealthNivel: "10%",
+
+    descripcion: "es un caza de superioridad aerea de cuarta generacion diseñado para 
+
+obtener y mantener el dominio del espacio aereo. Destaca por su extraordinaria velocidad, 
+
+aceleracion, capacidad de ascenso y gran autonomia, ademas de contar con un historial de 
+
+combate sobresaliente sin derrotas en enfrentamientos aire-aire."
 
 }
 
