@@ -415,7 +415,7 @@ f18:{
 
 f15:{
 
-    imagen: "PNG/F15.png",
+    imagen: "PNG/f15.png",
 
     nombre: "F-15 Eagle",
 
@@ -433,7 +433,7 @@ f15:{
 
     tripulacion: "1",
 
-    silueta: "PNG/F15_silueta.png",
+    silueta: "PNG/f15_silueta.png",
 
     velocidadNivel: "98%",
 
