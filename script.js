@@ -375,13 +375,7 @@ f18:{
 
     stealthNivel: "35%",
 
-    descripcion: "es un caza polivalente de cuarta generacion avanzada diseñado para 
-
-misiones de superioridad aerea, ataque a tierra, reconocimiento y guerra electronica. 
-
-Destaca por su gran versatilidad, fiabilidad y capacidad para operar desde portaaviones, 
-
-siendo uno de los principales aviones de combate de la Armada de los Estados Unidos."
+    descripcion: "es un caza polivalente de cuarta generacion avanzada diseñado para misiones de superioridad aerea, ataque a tierra, reconocimiento y guerra electronica. Destaca por su gran versatilidad, fiabilidad y capacidad para operar desde portaaviones, siendo uno de los principales aviones de combate de la Armada de los Estados Unidos."
 
 },
 
@@ -415,15 +409,7 @@ siendo uno de los principales aviones de combate de la Armada de los Estados Uni
 
     stealthNivel: "10%",
 
-    descripcion: "es un caza interceptor y de superioridad aerea de cuarta generacion 
-
-diseñado para proteger grupos de portaaviones y enfrentar objetivos a larga distancia. 
-
-Destaca por sus alas de geometria variable, su elevada velocidad, su potente radar y su 
-
-capacidad para emplear misiles de largo alcance, convirtiendose en uno de los cazas mas 
-
-emblematicos de la Guerra Fria."
+    descripcion: "es un caza interceptor y de superioridad aerea de cuarta generacion diseñado para proteger grupos de portaaviones y enfrentar objetivos a larga distancia. Destaca por sus alas de geometria variable, su elevada velocidad, su potente radar y su capacidad para emplear misiles de largo alcance, convirtiendose en uno de los cazas mas emblematicos de la Guerra Fria."
 
 },
 
@@ -457,14 +443,7 @@ f15:{
 
     stealthNivel: "10%",
 
-    descripcion: "es un caza de superioridad aerea de cuarta generacion diseñado para 
-
-obtener y mantener el dominio del espacio aereo. Destaca por su extraordinaria velocidad, 
-
-aceleracion, capacidad de ascenso y gran autonomia, ademas de contar con un historial de 
-
-combate sobresaliente sin derrotas en enfrentamientos aire-aire."
-
+    descripcion: "es un caza de superioridad aerea de cuarta generacion diseñado para obtener y mantener el dominio del espacio aereo. Destaca por su extraordinaria velocidad, aceleracion, capacidad de ascenso y gran autonomia, ademas de contar con un historial de combate sobresaliente sin derrotas en enfrentamientos aire-aire."
 }
 
 
