@@ -309,6 +309,86 @@ descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseñado para 
     stealthNivel:"10%",
 
     descripcion:"Caza ligero de tercera generacion desarrollado por Estados Unidos. Destaca por su bajo costo operativo, excelente maniobrabilidad y facilidad de mantenimiento. Aunque posee menor capacidad de carga y avionica que cazas mas modernos, ha sido ampliamente utilizado por numerosas fuerzas aereas en todo el mundo."
+},
+
+    mig19:{
+
+    imagen: "PNG/Mig19.png",
+
+    nombre: "MiG-19 Farmer",
+
+    fabricante: "Mikoyan-Gurevich",
+
+    pais: "Union Sovietica",
+
+    generacion: "Segunda",
+
+    velocidad: "Mach 1.45",
+
+    alcance: "1390 km",
+
+    motores: "2 × Tumansky RD-9B",
+
+    tripulacion: "1",
+
+    silueta: "PNG/Mig19_silueta.png",
+
+    velocidadNivel: "72%",
+
+    alcanceNivel: "45%",
+
+    maniobraNivel: "78%",
+
+    stealthNivel: "2%",
+
+    descripcion: "es un caza de segunda generacion desarrollado por la Union Sovietica. Fue 
+
+el primer avion de combate sovietico capaz de mantener vuelo supersónico en vuelo nivelado. 
+
+Destaco por su buena aceleracion y maniobrabilidad, aunque su alcance y avionica eran 
+
+limitados en comparacion con cazas posteriores."
+
+},
+
+f18:{
+
+    imagen: "PNG/F18.png",
+
+    nombre: "F/A-18E Super Hornet",
+
+    fabricante: "Boeing",
+
+    pais: "Estados Unidos",
+
+    generacion: "Cuarta++",
+
+    velocidad: "Mach 1.8",
+
+    alcance: "3330 km (con tanques externos)",
+
+    motores: "2 × General Electric F414-GE-400",
+
+    tripulacion: "1",
+
+    silueta: "PNG/F18_silueta.png",
+
+    velocidadNivel: "85%",
+
+    alcanceNivel: "82%",
+
+    maniobraNivel: "92%",
+
+    stealthNivel: "35%",
+
+    descripcion: "es un caza polivalente de cuarta generacion avanzada diseñado para 
+
+misiones de superioridad aerea, ataque a tierra, reconocimiento y guerra electronica. 
+
+Destaca por su gran versatilidad, fiabilidad y capacidad para operar desde portaaviones, 
+
+siendo uno de los principales aviones de combate de la Armada de los Estados Unidos."
+
 }
 
 
