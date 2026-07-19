@@ -444,6 +444,73 @@ f15:{
     stealthNivel: "10%",
 
     descripcion: "es un caza de superioridad aerea de cuarta generacion diseñado para obtener y mantener el dominio del espacio aereo. Destaca por su extraordinaria velocidad, aceleracion, capacidad de ascenso y gran autonomia, ademas de contar con un historial de combate sobresaliente sin derrotas en enfrentamientos aire-aire."
+},
+
+    su30:{
+
+    imagen:"PNG/Su30.png",
+
+    nombre:"Su-30 Strike Flanker",
+
+    fabricante:"Sukhoi",
+
+    pais:"Rusia",
+
+    generacion:"Cuarta++",
+
+    velocidad:"Mach 2.0",
+
+    alcance:"3000 km",
+
+    motores:"Saturn AL-31FP (2)",
+
+    tripulacion:"2",
+
+    silueta:"PNG/Su30_silueta.png",
+
+    velocidadNivel:"90%",
+
+    alcanceNivel:"92%",
+
+    maniobraNivel:"97%",
+
+    stealthNivel:"10%",
+
+    descripcion:"Caza multifuncion biplaza de generacion 4++ desarrollado a partir del Su-27. Diseñado para misiones de superioridad aerea, ataque de precision y combate aire-superficie, combina gran maniobrabilidad, largo alcance y una elevada capacidad de carga de armamento."
+
+},
+    su27:{
+
+    imagen:"PNG/Su27.png",
+
+    nombre:"Su-27 Flanker",
+
+    fabricante:"Sukhoi",
+
+    pais:"Union Sovietica",
+
+    generacion:"Cuarta",
+
+    velocidad:"Mach 2.35",
+
+    alcance:"3530 km",
+
+    motores:"Saturn AL-31F (2)",
+
+    tripulacion:"1",
+
+    silueta:"PNG/Su27_silueta.png",
+
+    velocidadNivel:"95%",
+
+    alcanceNivel:"90%",
+
+    maniobraNivel:"98%",
+
+    stealthNivel:"10%",
+
+    descripcion:"Caza de superioridad aerea de cuarta generacion desarrollado por Sukhoi para dominar el combate aire-aire. Destaca por su extraordinaria maniobrabilidad, alta velocidad y gran autonomia, siendo la base de numerosas variantes modernas de la familia Flanker."
+
 }
 
 
