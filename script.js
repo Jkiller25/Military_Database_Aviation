@@ -397,7 +397,7 @@ descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseñado para 
 
     tripulacion: "1",
 
-    silueta: "PNG/Mig19_silueta.png",
+    silueta: "PNG/mig19_silueta.png",
 
     velocidadNivel: "72%",
 
