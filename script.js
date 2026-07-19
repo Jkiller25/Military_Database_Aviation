@@ -181,6 +181,40 @@ su33:{
     descripcion:"Caza naval de superioridad aerea basado en el Su-27 y diseñado para operar desde portaaviones. Cuenta con alas plegables, tren de aterrizaje reforzado y gancho de apontaje, manteniendo la alta velocidad y maniobrabilidad caracteristicas de la familia Flanker."
 
 },
+
+    su47:{
+
+    imagen:"PNG/Su47.png",
+
+    nombre:"Su-47 Berkut",
+
+    fabricante:"Sukhoi",
+
+    pais:"Rusia",
+
+    generacion:"Experimental",
+
+    velocidad:"Mach 2.0",
+
+    alcance:"3300 km",
+
+    motores:"Soloviev D-30F11 (2)",
+
+    tripulacion:"1",
+
+    silueta:"PNG/Su47_silueta.png",
+
+    velocidadNivel:"90%",
+
+    alcanceNivel:"89%",
+
+    maniobraNivel:"100%",
+
+    stealthNivel:"20%",
+
+    descripcion:"Avion de combate experimental desarrollado por Sukhoi para evaluar tecnologias avanzadas como las alas de flecha inversa, materiales compuestos y sistemas de control de vuelo. Destaco por su excepcional maniobrabilidad y sirvio como banco de pruebas para futuros cazas rusos."
+
+},
 su57:{
 
 imagen: "PNG/Su57.png",
