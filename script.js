@@ -148,7 +148,39 @@ stealthNivel: "5%",
 descripcion: "El Su-22 Fitter es un avion de ataque y caza bombardero de tercera generacion, diseñado para realizar misiones de apoyo aéreo cercano e interdicción. Su ala de geometría variable le permite operar eficazmente a distintas velocidades y en diversos perfiles de mision."
 
 },
+su33:{
 
+    imagen:"PNG/Su33.png",
+
+    nombre:"Su-33 Sea Flanker",
+
+    fabricante:"Sukhoi",
+
+    pais:"Rusia",
+
+    generacion:"Cuarta",
+
+    velocidad:"Mach 2.17",
+
+    alcance:"3000 km",
+
+    motores:"Saturn AL-31F (2)",
+
+    tripulacion:"1",
+
+    silueta:"PNG/Su33_silueta.png",
+
+    velocidadNivel:"92%",
+
+    alcanceNivel:"88%",
+
+    maniobraNivel:"96%",
+
+    stealthNivel:"10%",
+
+    descripcion:"Caza naval de superioridad aerea basado en el Su-27 y diseñado para operar desde portaaviones. Cuenta con alas plegables, tren de aterrizaje reforzado y gancho de apontaje, manteniendo la alta velocidad y maniobrabilidad caracteristicas de la familia Flanker."
+
+},
 su57:{
 
 imagen: "PNG/Su57.png",
