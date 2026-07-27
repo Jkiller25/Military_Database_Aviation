@@ -411,6 +411,40 @@ descripcion: "El B-2 Spirit es un bombardero estrategico furtivo diseñado para 
 
 },
 
+    mig23:{
+
+    imagen:"PNG/Mig23.png",
+
+    nombre:"MiG-23 Flogger",
+
+    fabricante:"Mikoyan-Gurevich",
+
+    pais:"Union Sovietica",
+
+    generacion:"Tercera",
+
+    velocidad:"Mach 2.35",
+
+    alcance:"2500 km",
+
+    motores:"1 × Tumansky R-29",
+
+    tripulacion:"1",
+
+    silueta:"PNG/Mig23_silueta.png",
+
+    velocidadNivel:"90%",
+
+    alcanceNivel:"75%",
+
+    maniobraNivel:"65%",
+
+    stealthNivel:"5%",
+
+    descripcion:"Caza de geometria variable diseñado para superioridad aerea e intercepcion. Destacado por su alta velocidad y capacidad de operar en diferentes perfiles de vuelo, aunque con menor maniobrabilidad y sin capacidades furtivas."
+
+},
+
 f18:{
 
     imagen: "PNG/F18.png",
